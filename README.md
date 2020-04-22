@@ -1,2 +1,2 @@
 # bootstrap_project-finas
-![](https://github.com/kandark/bootstrap_project-finans/blob/master/assets/desktop.png =250x250)
+![](https://github.com/kandark/bootstrap_project-finans/blob/master/assets/desktop.png = width="200px")
